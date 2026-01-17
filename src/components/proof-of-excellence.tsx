@@ -46,19 +46,10 @@ const socialProofItems = [
 ];
 
 export function ProofOfExcellence() {
-  const background = PlaceHolderImages.find((img) => img.id === 'proof-background');
   const highImpactQuote = testimonials[1]; // Use the second testimonial for the big quote
 
   return (
     <section className="relative py-24 bg-secondary overflow-hidden">
-      {background && (
-        <Image
-          src={background.imageUrl}
-          alt={background.description}
-          fill
-          className="object-cover opacity-10"
-        />
-      )}
       <div className="relative container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-headline mb-4">Proof of Excellence</h2>
