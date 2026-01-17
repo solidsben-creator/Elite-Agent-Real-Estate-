@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "bento-1",
+      "description": "Modern living room with a large window and city view",
+      "imageUrl": "https://images.unsplash.com/photo-1616047006789-b7af5afb8c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2ODU4MjExOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "bento-2",
+      "description": "Lounge area on a high-rise balcony overlooking a bustling city at dusk",
+      "imageUrl": "https://images.unsplash.com/photo-1652553342751-1ca6abba2a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYWxjb255JTIwY2l0eXxlbnwwfHx8fDE3Njg2NjY4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "balcony city"
+    },
+    {
+      "id": "bento-3",
+      "description": "A curated collection of wine bottles stored on a sleek wooden shelf",
+      "imageUrl": "https://images.unsplash.com/photo-1734772137598-645ebdbc68fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3aW5lJTIwY29sbGVjdGlvbnxlbnwwfHx8fDE3Njg2NjY4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wine collection"
+    },
+    {
+      "id": "bento-4",
+      "description": "Close-up of minimalist architectural lines and shadows",
+      "imageUrl": "https://images.unsplash.com/photo-1534596496419-d572a85027ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcmNoaXRlY3R1cmUlMjBkZXRhaWx8ZW58MHx8fHwxNzY4NjY2ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture detail"
+    },
+    {
+      "id": "bento-5",
+      "description": "Spacious luxury bathroom with a freestanding tub and marble finishes",
+      "imageUrl": "https://images.unsplash.com/photo-1638799869566-b17fa794c4de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3Njg2MTE4NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury bathroom"
+    },
+    {
+      "id": "bento-6",
+      "description": "A state-of-the-art modern kitchen with a large central island and designer lighting",
+      "imageUrl": "https://images.unsplash.com/photo-1639405069836-f82aa6dcb900?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwa2l0Y2hlbnxlbnwwfHx8fDE3Njg2MjE2MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern kitchen"
+    }
+  ]
 }
