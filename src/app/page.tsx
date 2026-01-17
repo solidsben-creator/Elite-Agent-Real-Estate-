@@ -2,6 +2,7 @@ import { BentoGrid } from '@/components/bento-grid';
 import { Hero } from '@/components/hero';
 import { MlsAiConcierge } from '@/components/mls-ai-concierge';
 import { MobileQuickActionBar } from '@/components/mobile-quick-action-bar';
+import { Visionary } from '@/components/visionary';
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <main>
         <Hero />
         <BentoGrid />
+        <Visionary />
         <MlsAiConcierge />
       </main>
       <MobileQuickActionBar />
