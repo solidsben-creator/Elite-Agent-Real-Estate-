@@ -35,6 +35,12 @@
       "description": "A state-of-the-art modern kitchen with a large central island and designer lighting",
       "imageUrl": "https://images.unsplash.com/photo-1639405069836-f82aa6dcb900?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwa2l0Y2hlbnxlbnwwfHx8fDE3Njg2MjE2MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "modern kitchen"
+    },
+    {
+      "id": "hero-1",
+      "description": "Modern luxury house with a swimming pool at dusk",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxMdXh1cnklMjBIb21lJTIwU2VhfGVufDB8fHx8MTc2ODc1MTAzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury home"
     }
   ]
 }

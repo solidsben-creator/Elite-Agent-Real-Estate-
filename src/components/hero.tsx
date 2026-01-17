@@ -1,8 +1,11 @@
 import { Logo } from '@/components/logo';
 import { PredictiveSearch } from './predictive-search';
 import { Button } from './ui/button';
+import { PlaceHolderImages } from '@/lib/placeholder-images';
 
 export function Hero() {
+  const heroImage = PlaceHolderImages.find((img) => img.id === 'hero-1');
+
   return (
     <section className="relative h-screen min-h-[700px] w-full overflow-hidden">
       <video
@@ -10,6 +13,7 @@ export function Hero() {
         loop
         muted
         playsInline
+        poster={heroImage?.imageUrl}
         className="absolute inset-0 w-full h-full object-cover -z-10 brightness-[.4]"
       >
         <source
