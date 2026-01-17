@@ -63,19 +63,19 @@
     {
       "id": "testimonial-video-1-poster",
       "description": "Happy woman in a bright, modern living room",
-      "imageUrl": "https://images.unsplash.com/photo-1556742212-5b321f3c26a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMGNsaWVudCUyMGhvbWV8ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%201.mp4",
       "imageHint": "happy client"
     },
     {
       "id": "testimonial-video-2-poster",
       "description": "A smiling couple standing in front of their new luxury home",
-      "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXBweSUyMGNvdXBsZSUyMGhvbWV8ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%202.mp4",
       "imageHint": "happy couple"
     },
     {
       "id": "testimonial-video-3-poster",
       "description": "A family enjoying their spacious modern kitchen",
-      "imageUrl": "https://images.unsplash.com/photo-1572019129996-f1a4f1ce6c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBpbiUyMGtpdGNoZW58ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%203.mp4",
       "imageHint": "family home"
     },
     {

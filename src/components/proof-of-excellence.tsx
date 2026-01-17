@@ -134,7 +134,13 @@ function VideoStory({
   const videoRef = useRef<HTMLVideoElement>(null);
 
   const handleMouseEnter = () => {
-    videoRef.current?.play();
+    const playPromise = videoRef.current?.play();
+    if (playPromise !== undefined) {
+      playPromise.catch(() => {
+        // This is to prevent an error when the user quickly
+        // hovers and unhovers the video.
+      });
+    }
   };
 
   const handleMouseLeave = () => {
