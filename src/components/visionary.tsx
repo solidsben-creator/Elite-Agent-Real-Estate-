@@ -32,6 +32,7 @@ export function Visionary() {
               <h2 className="font-headline text-4xl md:text-5xl mb-4 leading-tight">
                 Alex Sterling
               </h2>
+              <p className="text-xs text-white/50 break-all mb-4">Placeholder URL (for your reference): {agentImage.imageUrl}</p>
               <p className="text-lg text-white/80 mb-8 max-w-xl">
                 More than an agent, I am an architect of lifestyles. My vision is to curate spaces that are not just homes, but extensions of your aspirations, blending timeless design with modern innovation. Let's build your legacy together.
               </p>
