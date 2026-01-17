@@ -22,8 +22,7 @@ export function BentoGrid() {
       <Image
         src={image.imageUrl}
         alt={image.description}
-        width={parseInt(image.imageUrl.split('/')[5])}
-        height={parseInt(image.imageUrl.split('/')[6])}
+        fill
         data-ai-hint={image.imageHint}
         className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
         priority={images.indexOf(image) < 3}
