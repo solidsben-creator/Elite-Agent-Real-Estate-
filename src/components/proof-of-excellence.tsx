@@ -17,21 +17,21 @@ const testimonials = [
   {
     clientName: 'The Chen Family',
     videoUrl:
-      'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Testimonials/testimonial-1.mp4',
+      'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%201.mp4',
     posterId: 'testimonial-video-1-poster',
     quote: 'Alex made our dream a reality. A true professional with an unmatched eye for detail.',
   },
   {
     clientName: 'Sarah Jenkins',
     videoUrl:
-      'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Testimonials/testimonial-2.mp4',
+      'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%202.mp4',
     posterId: 'testimonial-video-2-poster',
     quote: 'The most seamless and luxurious real estate experience I’ve ever had.',
   },
   {
     clientName: 'The Peterson Group',
     videoUrl:
-      'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Testimonials/testimonial-3.mp4',
+      'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%203.mp4',
     posterId: 'testimonial-video-3-poster',
     quote: 'Beyond an agent—a visionary partner who understood our legacy.',
   },
