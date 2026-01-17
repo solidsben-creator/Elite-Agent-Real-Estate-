@@ -1,4 +1,5 @@
 import { BentoGrid } from '@/components/bento-grid';
+import { Footer } from '@/components/footer';
 import { Hero } from '@/components/hero';
 import { MlsAiConcierge } from '@/components/mls-ai-concierge';
 import { MobileQuickActionBar } from '@/components/mobile-quick-action-bar';
@@ -15,6 +16,7 @@ export default function Home() {
         <ProofOfExcellence />
         <MlsAiConcierge />
       </main>
+      <Footer />
       <MobileQuickActionBar />
     </div>
   );
