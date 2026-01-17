@@ -39,7 +39,7 @@
     {
       "id": "hero-1",
       "description": "Modern luxury house with a swimming pool at dusk",
-      "imageUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxMdXh1cnklMjBIb21lfGVufDB8fHx8MTc2ODg0OTM2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/hero-placeholder.jpg",
       "imageHint": "luxury home"
     },
     {
@@ -51,13 +51,13 @@
     {
       "id": "visionary-wine",
       "description": "Elegant bottle of red wine and a glass on a dark background",
-      "imageUrl": "https://images.unsplash.com/photo-1557690239-32b0179e5792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aW5lJTIwYm90dGxlfGVufDB8fHx8fDE3Njg5MjU1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Filed%20Wine%20Glass.jpg",
       "imageHint": "signature wine"
     },
     {
       "id": "visionary-architecture",
       "description": "Sleek lines of a modern minimalist building facade",
-      "imageUrl": "https://images.unsplash.com/photo-1617942125459-7a563a566367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtaW5pbWFsaXN0JTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8fDE3Njg5MjU1NDF8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Favorite%20Architectural%20Style.jpg",
       "imageHint": "minimalist architecture"
     },
     {
@@ -69,19 +69,19 @@
     {
       "id": "testimonial-video-2-poster",
       "description": "A smiling couple standing in front of their new luxury home",
-      "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXBweSUyMGNvdXBsZSUyMGhvbWV8ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXBweSUyMGNvdXBsZSUyMGhvbWV8ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "happy couple"
     },
     {
       "id": "testimonial-video-3-poster",
       "description": "A family enjoying their spacious modern kitchen",
-      "imageUrl": "https://images.unsplash.com/photo-1572019129996-f1a4f1ce6c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBpbiUyMGtpdGNoZW58ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1572019129996-f1a4f1ce6c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBpbiUyMGtpdGNoZW58ZW58MHx8fHwxNzY4OTI4NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "family home"
     },
     {
       "id": "proof-background",
       "description": "Dark black marble texture with subtle white veining",
-      "imageUrl": "https://images.unsplash.com/photo-1619177190410-d8516024905d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHlibGFjayUyMG1hcmJsZXxlbnwwfHx8fDE3Njg5Mjg5MzR8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1619177190410-d8516024905d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHlibGFjayUyMG1hcmJsZXxlbnwwfHx8fDE3Njg5Mjg5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "black marble"
     }
   ]
