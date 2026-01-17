@@ -14,7 +14,7 @@ export function Hero() {
         muted
         playsInline
         poster={heroImage?.imageUrl}
-        className="absolute inset-0 w-full h-full object-cover -z-10 brightness-[.4]"
+        className="absolute inset-0 w-full h-full object-cover brightness-[.4]"
       >
         <source
           src="https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Drone%20View%20of%20Luxury%20Homes%20by%20the%20Sea.mp4"
@@ -23,7 +23,7 @@ export function Hero() {
         Your browser does not support the video tag.
       </video>
 
-      <div className="absolute inset-0 flex items-center">
+      <div className="relative z-10 flex items-center h-full">
         <div className="container mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 items-center gap-12">
           <div className="p-8 md:p-12 bg-black/50 backdrop-blur-xl rounded-xl border border-white/10 shadow-2xl">
             <div className="mb-8">
