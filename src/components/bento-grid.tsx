@@ -2,6 +2,7 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Image from 'next/image';
 import { Card } from './ui/card';
 import { cn } from '@/lib/utils';
+import Link from 'next/link';
 
 export function BentoGrid() {
   const images = PlaceHolderImages.filter(img => img.id.startsWith('bento-'));
@@ -15,7 +16,7 @@ export function BentoGrid() {
   }) => (
     <Card
       className={cn(
-        'group relative overflow-hidden rounded-xl border-2 border-border shadow-lg transition-all duration-300 hover:shadow-2xl hover:border-primary',
+        'group relative overflow-hidden rounded-xl border-2 border-border shadow-lg transition-all duration-300 hover:shadow-2xl hover:border-primary h-full',
         className
       )}
     >
@@ -48,12 +49,24 @@ export function BentoGrid() {
           Featured Lifestyles
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 auto-rows-[20rem] gap-4 lg:gap-6">
-          <BentoCard className="lg:col-span-2 lg:row-span-2" image={images[0]} />
-          <BentoCard className="md:col-span-2 lg:col-span-1" image={images[1]} />
-          <BentoCard image={images[2]} />
-          <BentoCard image={images[3]} />
-          <BentoCard className="lg:col-span-2" image={images[4]} />
-          <BentoCard image={images[5]} />
+          <Link href="/properties" className="lg:col-span-2 lg:row-span-2">
+            <BentoCard image={images[0]} />
+          </Link>
+          <Link href="/properties" className="md:col-span-2 lg:col-span-1">
+            <BentoCard image={images[1]} />
+          </Link>
+          <Link href="/properties">
+            <BentoCard image={images[2]} />
+          </Link>
+          <Link href="/properties">
+            <BentoCard image={images[3]} />
+          </Link>
+          <Link href="/properties" className="lg:col-span-2">
+            <BentoCard image={images[4]} />
+          </Link>
+          <Link href="/properties">
+            <BentoCard image={images[5]} />
+          </Link>
         </div>
       </div>
     </section>
