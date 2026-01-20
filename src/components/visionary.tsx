@@ -73,9 +73,11 @@ export function Visionary() {
                   <Download className="mr-2" />
                   Download My Local Insider Guide
                 </Button>
-                <Button size="lg">
-                  <Calendar className="mr-2" />
-                  Schedule a Private Portfolio Review
+                <Button size="lg" asChild>
+                  <a href="https://calendly.com/your-username" target="_blank" rel="noopener noreferrer">
+                    <Calendar className="mr-2" />
+                    Schedule a Private Portfolio Review
+                  </a>
                 </Button>
               </div>
             </div>
