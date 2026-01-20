@@ -49,7 +49,7 @@ export function ProofOfExcellence() {
   const highImpactQuote = testimonials[1]; // Use the second testimonial for the big quote
 
   return (
-    <section className="relative py-24 bg-secondary overflow-hidden">
+    <section id="proof-of-excellence" className="relative py-24 bg-secondary overflow-hidden">
       <div className="relative container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-headline mb-4">Proof of Excellence</h2>

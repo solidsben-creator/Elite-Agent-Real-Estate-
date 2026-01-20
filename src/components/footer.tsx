@@ -25,13 +25,13 @@ export function Footer() {
                     Explore
                     </h3>
                     <ul className="space-y-2 text-sm">
-                    <li><a href="#" className="hover:text-white transition-colors">Properties</a></li>
-                    <li><a href="#" className="hover:text-white transition-colors">Lifestyles</a></li>
-                    <li><a href="#" className="hover:text-white transition-colors">About</a></li>
-                    <li><a href="#" className="hover:text-white transition-colors">Contact</a></li>
+                    <li><a href="/properties" className="hover:text-white transition-colors">Properties</a></li>
+                    <li><a href="/#featured-lifestyles" className="hover:text-white transition-colors">Lifestyles</a></li>
+                    <li><a href="/#proof-of-excellence" className="hover:text-white transition-colors">Proof of Excellence</a></li>
+                    <li><a href="#contact" className="hover:text-white transition-colors">Contact</a></li>
                     </ul>
                 </div>
-                <div>
+                <div id="contact">
                     <h3 className="uppercase tracking-widest text-sm font-semibold mb-4 text-white">
                     Connect
                     </h3>

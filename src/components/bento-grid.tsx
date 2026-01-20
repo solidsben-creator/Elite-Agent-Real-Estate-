@@ -43,7 +43,7 @@ export function BentoGrid() {
   }
 
   return (
-    <section className="py-24 bg-secondary">
+    <section id="featured-lifestyles" className="py-24 bg-secondary">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-headline text-center mb-12">
           Featured Lifestyles
