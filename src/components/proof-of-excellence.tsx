@@ -15,7 +15,7 @@ import { Card } from './ui/card';
 
 const testimonials = [
   {
-    clientName: 'The Chen Family',
+    clientName: 'The Jackson Family',
     videoUrl:
       'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%201.mp4',
     posterId: 'testimonial-video-1-poster',
@@ -29,7 +29,7 @@ const testimonials = [
     quote: 'The most seamless and luxurious real estate experience I’ve ever had.',
   },
   {
-    clientName: 'The Peterson Group',
+    clientName: 'Peter Parker',
     videoUrl:
       'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%203.mp4',
     posterId: 'testimonial-video-3-poster',
