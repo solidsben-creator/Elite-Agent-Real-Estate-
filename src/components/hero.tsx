@@ -14,7 +14,7 @@ export function Hero() {
         muted
         playsInline
         poster={heroImage?.imageUrl}
-        className="absolute inset-0 w-full h-full object-cover brightness-[.7]"
+        className="absolute inset-0 w-full h-full object-cover brightness-[.8]"
       >
         <source
           src="https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/Drone%20View%20of%20Luxury%20Homes%20by%20the%20Sea.mp4"
