@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/hero-placeholder.jpg" alt="Elite Agent Hero" width="800"/>
+  <img src="https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/about%20me%20hero.jpg" alt="Elite Agent Hero" width="800"/>
 </p>
 
 <p align="center">
