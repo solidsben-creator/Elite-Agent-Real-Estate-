@@ -10,7 +10,7 @@ export function PredictiveSearch() {
       <Input
         type="search"
         placeholder="Search by city, address, or style..."
-        className="w-full h-14 pl-12 pr-4 text-base bg-background/80"
+        className="w-full h-14 pl-12 pr-4 text-base bg-background/50"
       />
     </div>
   );

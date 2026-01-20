@@ -25,7 +25,7 @@ export function Hero() {
 
       <div className="relative z-10 flex items-center h-full">
         <div className="container mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 items-center gap-12">
-          <div className="p-8 md:p-12 bg-black/50 backdrop-blur-xl rounded-xl border border-white/10 shadow-2xl">
+          <div className="p-8 md:p-12 bg-black/50 rounded-xl border border-white/10 shadow-2xl">
             <div className="mb-8">
               <Logo isHero={true} />
             </div>
