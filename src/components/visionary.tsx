@@ -1,7 +1,8 @@
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Image from 'next/image';
 import { Button } from './ui/button';
-import { Download, Calendar } from 'lucide-react';
+import { Calendar } from 'lucide-react';
+import { DownloadGuideForm } from './download-guide-form';
 
 export function Visionary() {
   const agentImage = PlaceHolderImages.find((img) => img.id === 'visionary-portrait');
@@ -69,10 +70,7 @@ export function Visionary() {
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4">
-                <Button size="lg" variant="secondary" className="bg-white/10 hover:bg-white/20 text-white">
-                  <Download className="mr-2" />
-                  Download My Local Insider Guide
-                </Button>
+                <DownloadGuideForm />
                 <Button size="lg" asChild>
                   <a href="https://calendly.com/your-username" target="_blank" rel="noopener noreferrer">
                     <Calendar className="mr-2" />
