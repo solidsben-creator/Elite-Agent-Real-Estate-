@@ -161,6 +161,7 @@ function VideoStory({
           <BadgeCheck className="w-6 h-6 text-accent" />
           <p className="font-bold text-lg">{clientName}</p>
         </div>
+        <p className="text-xs break-all mt-2">{posterUrl}</p>
       </div>
     </div>
   );
