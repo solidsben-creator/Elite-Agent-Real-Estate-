@@ -15,7 +15,7 @@ import { Card } from './ui/card';
 
 const testimonials = [
   {
-    clientName: 'The Jacksons Family',
+    clientName: 'The Jackson Family',
     videoUrl:
       'https://weqsdvabryueorchngln.supabase.co/storage/v1/object/public/Modern%20Agent%20Website/sold%201.mp4',
     posterId: 'testimonial-video-1-poster',
