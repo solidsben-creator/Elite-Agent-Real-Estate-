@@ -18,7 +18,7 @@ export function MobileQuickActionBar() {
   };
 
   return (
-    <div className="fixed bottom-4 right-4 z-50">
+    <div className="fixed bottom-4 right-4 z-50 md:bottom-8 md:right-8">
       <div className="relative flex flex-col items-end gap-1">
         {/* Expanded menu items */}
         <div
@@ -35,13 +35,13 @@ export function MobileQuickActionBar() {
             aria-label="Back to Top"
             variant="outline"
             size="icon"
-            className="h-7 w-7 rounded-full border-2 border-primary bg-black/30 text-primary backdrop-blur-md hover:bg-primary hover:text-primary-foreground"
+            className="h-7 w-7 rounded-full border-2 border-primary bg-background/80 text-primary backdrop-blur-sm hover:bg-primary hover:text-primary-foreground"
           >
             <ArrowUp className="h-4 w-4" />
           </Button>
 
           {/* Text Alex button */}
-          <Button asChild className="h-7 rounded-full bg-black/30 backdrop-blur-md border border-white/20 font-semibold text-white hover:bg-white/90 hover:text-black px-2.5 text-xs">
+          <Button asChild className="h-7 rounded-full px-2.5 text-xs font-semibold">
             <Link
               href="https://wa.me/13105550123"
               target="_blank"
@@ -59,7 +59,7 @@ export function MobileQuickActionBar() {
           onClick={() => setIsOpen(!isOpen)}
           aria-expanded={isOpen}
           size="icon"
-          className="h-9 w-9 rounded-full bg-black/30 backdrop-blur-md border border-white/20 text-white shadow-lg transition-all hover:scale-105 active:scale-95"
+          className="h-9 w-9 rounded-full shadow-lg transition-all hover:scale-105 active:scale-95"
         >
           {isOpen ? <X className="h-5 w-5" /> : <MessageSquare className="h-5 w-5" />}
         </Button>
