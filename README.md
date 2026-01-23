@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  A bespoke, AI-powered web experience designed for the modern, high-end real estate professional. This project goes beyond a simple property listing site to become a powerful branding and client engagement tool, demonstrating how cutting-edge technology can solve real-world business challenges.
+  A bespoke, web experience designed for the modern, high-end real estate professional. This project goes beyond a simple property listing site to become a powerful branding and client engagement tool, demonstrating how cutting-edge technology can solve real-world business challenges.
 </p>
 
 ---
@@ -18,7 +18,7 @@ As a sales professional transitioning into **Technical Business Development**, I
 
 My goal was not just to build a "website," but to architect a digital experience that solves a real-world business problem for a luxury real estate agent: **how to build a brand, establish trust, and engage high-value clients in a crowded market.**
 
-I translated abstract business requirements—like "humanizing the brand" and "creating social proof"—into concrete, technical features like the AI-powered concierge and the dynamic "Proof of Excellence" engine.
+I translated abstract business requirements—like "humanizing the brand" and "creating social proof"—into concrete, technical features like the dynamic "Proof of Excellence" engine.
 
 This project showcases my ability to:
 -   **Bridge the Gap:** Translate high-level business goals into technical execution and product features.
@@ -30,7 +30,6 @@ This project showcases my ability to:
 
 ## Key Features
 
--   **🤖 AI-Powered MLS Concierge:** A conversational chatbot (powered by Google Gemini via Genkit) that instantly answers user questions about property details, providing 24/7 engagement.
 -   **✨ The Visionary Section:** A unique "editorial overlap" design that humanizes the agent's brand, positioning them as a tastemaker and thought leader.
 -   **🏆 Dynamic Proof of Excellence:** A "Cinematic Endorsement" carousel featuring vertical video testimonials that auto-play on hover, combined with a live "Social Proof Ticker" to build credibility and urgency.
 -   **🎨 Boutique Dark Aesthetic:** A sleek, modern UI built with **Tailwind CSS** and **ShadCN UI**, designed to convey luxury and sophistication.
@@ -42,7 +41,6 @@ This project showcases my ability to:
 
 -   **Frontend:** **Next.js** (App Router), **React**, **TypeScript**
 -   **Styling:** **Tailwind CSS**, **ShadCN UI**
--   **Generative AI:** **Google Gemini** via **Genkit**
 -   **Video & Asset Storage:** Supabase Storage
 -   **Hosting:** Firebase App Hosting
 
