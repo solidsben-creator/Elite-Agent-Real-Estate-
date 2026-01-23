@@ -47,6 +47,12 @@ This project showcases my ability to:
 *This project was architected and deployed using an AI-augmented development workflow within Firebase Studio. It demonstrates my ability to leverage cutting-edge tools to rapidly transform complex business requirements into high-end, functional digital experiences.*
 ---
 
+## 🚀 Roadmap & Upcoming Features
+
+-  **AI-Powered Semantic Search: Currently integrating an AI search bar into the Hero section to allow users to find high-end properties using natural language queries (e.g., "Find me a villa with a sunset view and a private pool").**
+
+---
+
 ## Getting Started
 
 To run this project locally:
