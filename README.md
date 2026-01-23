@@ -44,7 +44,7 @@ This project showcases my ability to:
 -   **Video & Asset Storage:** Supabase Storage
 -   **Hosting:** Firebase App Hosting
 
-*This project was rapidly prototyped and developed in collaboration with an AI coding partner within Firebase Studio, demonstrating modern, AI-augmented development workflows.*
+*This project was architected and deployed using an AI-augmented development workflow within Firebase Studio. It demonstrates my ability to leverage cutting-edge tools to rapidly transform complex business requirements into high-end, functional digital experiences.*
 ---
 
 ## Getting Started
